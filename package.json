@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@datastructures-js/queue": "^4.2.3",
     "pngjs": "^7.0.0"
   }
 }
